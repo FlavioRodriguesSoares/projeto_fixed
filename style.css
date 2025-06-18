@@ -1,0 +1,88 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Tahoma;
+	box-sizing: border-box;
+}
+
+
+
+.cabeca{
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	background: #000000;
+	color: #d69700;
+	padding: 35px;
+	position: fixed;
+
+}
+
+.cabeca h1{
+	margin-bottom: 20px;
+	font-size: 32px;
+}
+
+.cabeca a{
+	padding: 10px;
+	font-size: 17px;
+	color: #d69700;
+}
+
+.capa{
+	width: 100%;
+	min-width: 700px;
+}
+
+.sonho, .consultar{
+	width: 100%;
+	min-width: 700px;
+	margin: 20px auto;
+	text-align: center;
+}
+
+.sonho h3{
+	margin: 20px;
+	font-size: 15px;
+	text-align: center;
+	font-weight: normal;
+
+}
+.sonho h2{
+	margin: 20px;
+	font-size: 17px;
+}
+.expo_car img{
+	width: 250px;
+}
+
+.texto p{
+	margin: 10px;
+	text-align: left;
+}
+
+.texto span, .consultar a{
+	color: #d6a627;
+}
+
+.consultar h3, .local h3{
+	margin: 10px;
+}
+.consultar img{
+	width: 250px;
+}
+
+.local iframe{
+	width: 700px;
+}
+
+.final{
+	background:#000000;;
+}
+.final p{
+	color: #ffffff;
+	padding: 10px;
+}
+.final a{
+	color: #d6a627;
+}
